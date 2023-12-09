@@ -2,6 +2,8 @@
 
 Pelatihan Udemy course by Maximillian
 
+> Project learning.
+
 ## Apa yang di pelajari?
 - Authentication dengan firebash
 - Menggunakan Realtime database untuk fitur chatting
